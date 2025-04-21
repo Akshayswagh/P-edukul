@@ -2185,7 +2185,7 @@ p.service_text{
     transition: all 0.5s ease 0s;
 }
 .item:hover{
-    background:#AC2822;
+    /* background:#AC2822; */
     box-shadow:0 8px 20px 0px rgba(0, 0, 0, 0.2);
     -webkit-transition: all .5s ease 0;
     transition: all .5s ease 0;
@@ -2199,7 +2199,7 @@ p.service_text{
     transition: all 0.5s ease 0s;
 }
 .item:hover h6, .item:hover p{
-    color:#fff;
+    /* color:#fff; */
     -webkit-transition: all .5s ease 0;
     transition: all .5s ease 0;
     transition: all 0.5s ease 0s;
